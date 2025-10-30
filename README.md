@@ -15,7 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Tampilan Login](https://github.com/pitriaulia20/app_login/blob/main/Tangkapan%20layar%20(1216).png)
+![Tampilan Login](https://github.com/pitriaulia20/app_login/blob/main/Screenshot%20(1216).png)
+
 
 
 
